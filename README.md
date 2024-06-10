@@ -5,6 +5,7 @@
 Soy Licenciado en Contaduría Pública y desarrollador de software apasionado por la creación de aplicaciones innovadoras y la resolución de problemas complejos. Tengo experiencia en una variedad de tecnologías y disfruto trabajando en proyectos que desafían mis habilidades y me permiten aprender cosas nuevas.
 
 - 🌱 Actualmente estoy aprendiendo **Programación y Desarrollo web**
+- 💼 Trabajo en **Distribuidora Mundovinyl**
 - 💬 Pregúntame sobre **Finanzas**
 - 📫 Cómo contactarme: **dimasgabrielbriceno@gmail.com**
 
@@ -19,11 +20,11 @@ Soy Licenciado en Contaduría Pública y desarrollador de software apasionado po
 
 ## Proyectos Destacados
 
-### EN PROCESO
+EN PROCESO
 
 ## Estadísticas de GitHub
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?dimasgb10&show_icons=true&theme=radical)
+EN PROCESO
 
 ## Contacto
 
@@ -33,4 +34,4 @@ Soy Licenciado en Contaduría Pública y desarrollador de software apasionado po
 
 ---
 
-¡Gracias por visitar mi perfil de GitHub!
+Si tienes alguna duda sobre tus finanzas, no dudes en contactarme, no cobro nada y me gusta aprender con ejemplos de la vida real.
