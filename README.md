@@ -23,7 +23,7 @@ Soy Licenciado en Contaduría Pública y desarrollador de software apasionado po
 
 ## Estadísticas de GitHub
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?dimasgb10&show_icons=true&theme=radical)
 
 ## Contacto
 
