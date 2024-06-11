@@ -1,8 +1,4 @@
-# Dimas Briceño
-
-## Sobre mí
-
-Soy Licenciado en Contaduría Pública y desarrollador de software apasionado por la creación de aplicaciones innovadoras y la resolución de problemas complejos. Tengo experiencia en una variedad de tecnologías y disfruto trabajando en proyectos que desafían mis habilidades y me permiten aprender cosas nuevas.
+Licenciado en Contaduría Pública y desarrollador de software apasionado por la creación de aplicaciones innovadoras y la resolución de problemas complejos. Tengo experiencia en una variedad de tecnologías y disfruto trabajando en proyectos que desafían mis habilidades y me permiten aprender cosas nuevas.
 
 - 🌱 Actualmente estoy aprendiendo **Programación y Desarrollo web**
 - ⚡ Aprendiendo un poco de **Microsoft Excel e Ingles**
