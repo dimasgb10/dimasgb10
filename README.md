@@ -21,7 +21,10 @@ Licenciado en Contaduría Pública y desarrollador de software apasionado por la
 
 ## Proyectos Destacados
 
-EN PROCESO
+# Extraer PDF a Excel
+
+Este proyecto contiene herramientas para convertir estados bancarios en formato PDF a archivos Excel. Aunque el proceso no es 100% automatizado, permite realizar conversiones de manera semiautomática.
+
 
 ## Estadísticas de GitHub
 
