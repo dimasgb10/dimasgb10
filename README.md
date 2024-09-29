@@ -19,6 +19,9 @@ Licenciado en Contaduría Pública y desarrollador de software apasionado por la
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
+
 ## Proyectos Destacados
 
 ### Extraer PDF a Excel
@@ -29,7 +32,8 @@ Ingresa al siguiente link: https://github.com/dimasgb10/extraer-pdf
 
 ## Estadísticas de GitHub
 
-EN PROCESO
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimasgb10&show_icons=true&theme=radical)
+
 
 ## Contacto
 
