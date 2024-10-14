@@ -35,10 +35,11 @@ Ingresa al siguiente link: https://github.com/dimasgb10/extraer-pdf
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimasgb10&show_icons=true&theme=radical)
 
 
-## Contacto
+## Conéctate conmigo
 
-- Facebook: dimasgb10
-- Instagram: dimasgb10
+[![Instagram](https://img.shields.io/badge/Instagram-@dimasgb10-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dimasgb10/)
+[![Facebook](https://img.shields.io/badge/Facebook-@dimasgb10-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/dimasgb10/)
+
 - Email: dimasgabrielbriceno@gmail.com
 
 ---
