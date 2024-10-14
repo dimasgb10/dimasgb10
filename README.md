@@ -39,10 +39,9 @@ Ingresa al siguiente link: https://github.com/dimasgb10/extraer-pdf
 
 [![Instagram](https://img.shields.io/badge/Instagram-@dimasgb10-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dimasgb10/)
 [![Facebook](https://img.shields.io/badge/Facebook-@dimasgb10-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/dimasgb10/)
-
-
-- Email: dimasgabrielbriceno@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@dimasgb10-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasgb10/)
+[![Email](https://img.shields.io/badge/Email-dimasgabrielbriceno%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dimasgabrielbriceno@gmail.com)
 
 ---
 
-Si tienes alguna duda sobre tus finanzas, no dudes en contactarme, no cobro nada y me gusta aprender con ejemplos de la vida real.
+Si tienes alguna duda sobre tus finanzas, no dudes en contactarme. Estoy aquí para ayudarte y, lo mejor de todo, ¡no cobro nada! Me encanta aprender a través de ejemplos de la vida real y juntos podemos encontrar soluciones prácticas.
